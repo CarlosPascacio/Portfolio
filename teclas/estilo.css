@@ -1,0 +1,16 @@
+body {
+  background-color: #212121;
+  color: #f1f1f1;
+  font-family: 'selawik';
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+canvas {
+  margin: 0% 25%;
+}
+
+#in_numLineas,#in_boton {
+  margin: 0 2em;
+}
